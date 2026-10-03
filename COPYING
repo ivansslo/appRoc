@@ -1,0 +1,22 @@
+appRoc is provided under:
+
+	SPDX-License-Identifier: GPL-3.0-or-later
+
+Copyright (c) 2026 Ivan Ssl (ivansslo)
+
+Being under the terms of the GNU General Public License version 3 or
+later, according with:
+
+	LICENSES/GPL-3.0
+
+appRoc is a fork of App Manager (https://github.com/MuntashirAkon/AppManager)
+originally written by Muntashir Al-Islam, modified and rebranded by
+Ivan Ssl (ivansslo).
+
+In addition, other licenses may also apply. Please navigate to:
+
+	LICENSES/
+
+to see all the licenses used in this project.
+
+All contributions to appRoc are subject to this COPYING file.

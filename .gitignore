@@ -1,0 +1,36 @@
+.gradle/
+.idea/
+local.properties
+.DS_Store
+build/
+app/release/
+app/debug/
+toybox/src/main/jniLibs
+app/src/*/assets/am.jar
+app/src/*/assets/main.jar
+pids
+logs
+node_modules
+npm-debug.log
+coverage/
+run
+dist
+.nyc_output
+.basement
+config.local.js
+basement_dist
+*.apk
+*.iml
+*.jks
+*~
+
+# RocAI agent artifacts
+rocai-logs/
+patch-build-gradle.cjs
+appRoc-apk/
+
+# RocAI agent artifacts
+rocai-logs/
+patch-build-gradle.cjs
+appRoc-apk/
+appRoc-keystore/
