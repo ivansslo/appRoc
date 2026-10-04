@@ -21,8 +21,10 @@ jobs:
           java-version: '21'
           cache: 'gradle'
 
-      - name: Grant execute permission for gradlew
-        run: chmod +x gradlew
+      - name: Ensure gradlew has LF line endings and is executable
+        run: |
+          dos2unix gradlew
+          chmod +x gradlew
 
       - name: Build release APK (signed with debug keystore)
         run: ./gradlew assembleRelease --stacktrace
