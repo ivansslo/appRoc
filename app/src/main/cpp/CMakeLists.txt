@@ -30,7 +30,7 @@ find_library(log-lib log)
 # BEGIN libam.so
 add_library(am SHARED
         AhoCorasick.cpp
-        io_github_muntashirakon_algo_AhoCorasick.cpp
+        io_github_ivansslo_algo_AhoCorasick.cpp
         io_github_muntashirakon_AppManager_utils_CpuUtils.cpp
         io_github_muntashirakon_compat_system_OsCompat.cpp)
 

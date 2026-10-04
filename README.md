@@ -18,7 +18,7 @@
 
 ---
 
-**appRoc** is a fork of [App Manager](https://github.com/MuntashirAkon/AppManager),
+**appRoc** is a fork of [App Manager](https://github.com/ivansslo/AppManager),
 rebranded and maintained by [Ivan Ssl (ivansslo)](https://github.com/ivansslo).
 It is an advanced package manager and APK inspector for Android that lets you see the
 structure and manifest of any APK, manage installed apps, permissions, and much more.
